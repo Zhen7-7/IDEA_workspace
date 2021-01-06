@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="IDEA_workspace:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52cb614d-c6e0-441b-9b93-bc11b4afbfe0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IDEA_workspace" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1jUHF0qdNlYOhOHd3JeGzXny8Zl" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test_javase/src/com/sunzhen" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sunzhen.list_set" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA_workspace\out\production\TestSnakeGame\images" />
+      <recent name="E:\IDEA_workspace\TestSnakeGame\src\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test0">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunzhen.inetwork.log.Client" />
+      <module name="TestForRecall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunzhen.inetwork.log.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunzhen.inetwork.log.Server" />
+      <module name="TestForRecall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunzhen.inetwork.log.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunzhen.Test1.Test" />
+      <module name="Test_Thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunzhen.Test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunzhen.buyticket02.Test01" />
+      <module name="Test_Thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunzhen.buyticket02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.fistday.test0" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.fistday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test0" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52cb614d-c6e0-441b-9b93-bc11b4afbfe0" name="Default Changelist" comment="" />
+      <created>1603851643000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603851643000</updated>
+      <workItem from="1603851645923" duration="114000" />
+      <workItem from="1603851774630" duration="318000" />
+      <workItem from="1603852126440" duration="30000" />
+      <workItem from="1603852176777" duration="3000" />
+      <workItem from="1603855431923" duration="1446000" />
+      <workItem from="1603858062021" duration="555000" />
+      <workItem from="1603863245172" duration="8000" />
+      <workItem from="1603864188801" duration="5131000" />
+      <workItem from="1603932028408" duration="4865000" />
+      <workItem from="1603938212596" duration="301000" />
+      <workItem from="1603966652286" duration="7012000" />
+      <workItem from="1603980665390" duration="2562000" />
+      <workItem from="1604021708259" duration="8819000" />
+      <workItem from="1604036130455" duration="216000" />
+      <workItem from="1604036369958" duration="4695000" />
+      <workItem from="1604043516355" duration="3787000" />
+      <workItem from="1604052747826" duration="6563000" />
+      <workItem from="1604063536765" duration="1812000" />
+      <workItem from="1604066255820" duration="758000" />
+      <workItem from="1604069687799" duration="474000" />
+      <workItem from="1604108363939" duration="3518000" />
+      <workItem from="1604132889225" duration="297000" />
+      <workItem from="1604136510219" duration="4011000" />
+      <workItem from="1604195607749" duration="1227000" />
+      <workItem from="1604301079797" duration="1198000" />
+      <workItem from="1604319176205" duration="7721000" />
+      <workItem from="1604367743076" duration="5592000" />
+      <workItem from="1604376690888" duration="5396000" />
+      <workItem from="1604383420017" duration="673000" />
+      <workItem from="1604407419990" duration="2259000" />
+      <workItem from="1604456947061" duration="3364000" />
+      <workItem from="1604469094806" duration="318000" />
+      <workItem from="1604469632479" duration="2951000" />
+      <workItem from="1604542864538" duration="2479000" />
+      <workItem from="1604563585867" duration="2571000" />
+      <workItem from="1604575313289" duration="5175000" />
+      <workItem from="1604586746068" duration="516000" />
+      <workItem from="1604637318604" duration="630000" />
+      <workItem from="1604723123270" duration="185000" />
+      <workItem from="1604723604592" duration="6617000" />
+      <workItem from="1604803264308" duration="3001000" />
+      <workItem from="1604807828999" duration="1497000" />
+      <workItem from="1604838507297" duration="4917000" />
+      <workItem from="1604908805835" duration="804000" />
+      <workItem from="1604914851279" duration="6981000" />
+      <workItem from="1604992923912" duration="2630000" />
+      <workItem from="1605017545423" duration="748000" />
+      <workItem from="1605231227235" duration="5661000" />
+      <workItem from="1605417007667" duration="5914000" />
+      <workItem from="1605427197417" duration="9946000" />
+      <workItem from="1605493022334" duration="3708000" />
+      <workItem from="1605499478301" duration="2714000" />
+      <workItem from="1605504685480" duration="1530000" />
+      <workItem from="1605509566743" duration="5354000" />
+      <workItem from="1605591189850" duration="3584000" />
+      <workItem from="1605595859216" duration="4374000" />
+      <workItem from="1605606600513" duration="730000" />
+      <workItem from="1605661845487" duration="2982000" />
+      <workItem from="1605676149785" duration="5859000" />
+      <workItem from="1605782647239" duration="2347000" />
+      <workItem from="1605786406685" duration="2209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IDEA_workspace$Test_IntegerClass.ic" NAME="Test_IntegerClass Coverage Results" MODIFIED="1604322066310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sunzhen.*</FILTER>
+    </SUITE>
+  </component>
+</project>

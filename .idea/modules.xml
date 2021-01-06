@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IDEA_workspace.iml" filepath="$PROJECT_DIR$/IDEA_workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO_Stream/IO_Stream.iml" filepath="$PROJECT_DIR$/IO_Stream/IO_Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InetWork/InetWork.iml" filepath="$PROJECT_DIR$/InetWork/InetWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_JavaSe01/Practice_JavaSe01.iml" filepath="$PROJECT_DIR$/Practice_JavaSe01/Practice_JavaSe01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QR_code/QR_code.iml" filepath="$PROJECT_DIR$/QR_code/QR_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectTest/ReflectTest.iml" filepath="$PROJECT_DIR$/ReflectTest/ReflectTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestForRecall/TestForRecall.iml" filepath="$PROJECT_DIR$/TestForRecall/TestForRecall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSnakeGame/TestSnakeGame.iml" filepath="$PROJECT_DIR$/TestSnakeGame/TestSnakeGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_ Collection/Test_ Collection.iml" filepath="$PROJECT_DIR$/Test_ Collection/Test_ Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_CommonClass/Test_CommonClass.iml" filepath="$PROJECT_DIR$/Test_CommonClass/Test_CommonClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_Exception/Test_Exception.iml" filepath="$PROJECT_DIR$/Test_Exception/Test_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_Thread/Test_Thread.iml" filepath="$PROJECT_DIR$/Test_Thread/Test_Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_javase/Test_javase.iml" filepath="$PROJECT_DIR$/Test_javase/Test_javase.iml" />
+    </modules>
+  </component>
+</project>
